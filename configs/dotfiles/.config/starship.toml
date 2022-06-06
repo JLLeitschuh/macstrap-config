@@ -68,7 +68,7 @@ disabled = true
 disabled = true
 
 [python]
-disabled = true
+disabled = false
 
 [ruby]
 disabled = true
